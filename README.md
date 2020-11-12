@@ -1,3 +1,15 @@
+#COMMANDE A FAIRE AVANT
+Dans le terminal (dans le root du projet), lancer les commandes :
+
+composer install
+composer require barryvdh/laravel-debugbar –dev
+php artisan storage:link
+
+
+Puis vous pouvez lancer les tests avec :
+php artisan test
+
+
 # Framework PHP
 
 Le framework étudié est Laravel, de la version 6 à 8. 
