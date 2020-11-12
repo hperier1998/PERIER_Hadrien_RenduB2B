@@ -1,4 +1,4 @@
-#COMMANDE A FAIRE AVANT
+# COMMANDE A FAIRE AVANT
 Dans le terminal (dans le root du projet), lancer les commandes :
 
 composer install
